@@ -1,0 +1,5 @@
+GET http://localhost:5000/store?numbers=1,32,55,33,66
+
+###
+GET http://localhost:5000/permutation?id=7
+
